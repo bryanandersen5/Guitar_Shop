@@ -1,0 +1,17 @@
+# PHP temp and cache
+*.log
+*.cache
+*.tmp
+
+# Composer
+/vendor/
+composer.lock
+
+# Environment files
+.env
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
