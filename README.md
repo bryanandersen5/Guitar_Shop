@@ -58,6 +58,11 @@
    ┣ 📄 9.png
    ┗ 📄 10.png
  ┣ 📁 model
+   ┣ 📄 category.php
+   ┣ 📄 category_db.php
+   ┣ 📄 database.php
+   ┣ 📄 product.php
+   ┣ 📄 product_db.php
  ┣ 📁 nbproject (ignored)
  ┣ 📁 product_catalog
  ┣ 📁 product_manager
