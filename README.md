@@ -65,6 +65,10 @@
    ┣ 📄 product_db.php
  ┣ 📁 nbproject (ignored)
  ┣ 📁 product_catalog
+   ┣ 📄 compare.php
+   ┣ 📄 index.php
+   ┣ 📄 product_list.php
+   ┣ 📄 product_view.php
  ┣ 📁 product_manager
  ┣ 📁 view
  ┣ 📄 index.php
