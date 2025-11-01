@@ -62,14 +62,18 @@
    ┣ 📄 category_db.php
    ┣ 📄 database.php
    ┣ 📄 product.php
-   ┣ 📄 product_db.php
+   ┗ 📄 product_db.php
  ┣ 📁 nbproject (ignored)
  ┣ 📁 product_catalog
    ┣ 📄 compare.php
    ┣ 📄 index.php
    ┣ 📄 product_list.php
-   ┣ 📄 product_view.php
+   ┗ 📄 product_view.php
  ┣ 📁 product_manager
+   ┣ 📄 index.php
+   ┣ 📄 product_add.php
+   ┣ 📄 product_edit.php
+   ┗ 📄 product_list.php
  ┣ 📁 view
  ┣ 📄 index.php
  ┣ 📄 main.css
