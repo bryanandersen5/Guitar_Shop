@@ -1,6 +1,6 @@
 ## 🎸 `Online Guitar Shop`
 
-![Language](https://img.shields.io/badge/Project-Java-blue?style=for-the-badge&logo=java&logoColor=white)
+![Language](https://img.shields.io/badge/Project-PHP-blue?style=for-the-badge&logo=java&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-Product%20Showcase-lightgrey?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Category%20Filtering%20%26%20UI-orange?style=for-the-badge)
